@@ -1,4 +1,4 @@
-from nearest_insertion_heuristic.helper_insertion_functions import *
+from nearest_insertion_heuristic.helper_functions import *
 
 
 # nearest insertion for TSP
