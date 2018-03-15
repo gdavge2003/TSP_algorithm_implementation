@@ -2,5 +2,4 @@
 CS325 Project - Examining a polynomial heuristic for the NP-Hard TSP
 
 Run Instructions:
-- Nearest Insertion Heuristic: all source code in folder 'nearest_insertion_heuristic'. Do not separate them. Run by using the terminal command: python3 main.py <tsp_problem.txt>
-  - MUST use python 3.3+
+Each folder contains a different implementation to solve TSP, along with their own respective README. Please refer to each implementation's particular README for instructions on how to run.
